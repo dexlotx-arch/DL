@@ -2,7 +2,7 @@
   "name": "Decentralized Lottery Token",
   "symbol": "DLT",
   "description": "The official token for the DLP Lottery system.",
-  "image": "https://github.com/dexlotx-arch/DL/blob/main/tokken%20img.png",
+  "image": "https://https://github.com/dexlotx-arch/DL/blob/main/tokken%20img.png?raw=true",
   "attributes": [
     { "trait_type": "Community", "value": "DLP" }
   ]
